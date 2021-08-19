@@ -247,7 +247,7 @@ function loop() {
     telaAtiva.atualiza();
 
     frames = frames + 1;
-    requestAnimationFrame(loop);
+    requestAnimationFrame(loop);a
 }
 
 window.addEventListener('click', function () {
