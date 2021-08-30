@@ -1,3 +1,2 @@
 # Flappy-Bird
-
- [Assista o Video] (https://youtu.be/0TmsCgg9rpo)
+[Assista o Video Clicando aqui](https://youtu.be/0TmsCgg9rpo)
